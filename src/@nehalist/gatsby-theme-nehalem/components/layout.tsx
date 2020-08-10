@@ -40,7 +40,7 @@ const Layout: FunctionComponent<LayoutProps> = ({
    return (
       <>
          <GlobalStyle />
-         {bigHeader && window.location.pathname === '/' ? (
+         {bigHeader ? (
             <>
                <Header
                   title={data.site.siteMetadata.title}
