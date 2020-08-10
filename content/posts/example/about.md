@@ -1,16 +1,16 @@
 ---
-title: "Lorem ipsum"
-path: "/demo"
-tags: ["Demo"]
-featuredImage: "./cover.jpg"
-excerpt: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+title: 'About'
+path: '/about'
+tags: ['Demo']
+featuredImage: './cover.jpg'
+excerpt: Dummy text dummy text dummy text.
 created: 2019-07-22
 updated: 2019-07-22
 ---
 
 ## Cruciabere instruit
 
-Lorem markdownum et altis custodia, si castaque culpavit *stipite*. Dat ad stat,
+Lorem markdownum et altis custodia, si castaque culpavit _stipite_. Dat ad stat,
 his, comites fuit subito [fer](http://geminis.com/) dabat videri et cernis
 patriorum! Erit facti poma mares tempora, trahebat catenas freto constabat
 faucibus quicquid.
@@ -39,11 +39,11 @@ quae tuo dum!
 Poenarum quaerebat me mundi, in fuerint coniungere puellis omnes. Victor numen
 se origo peccasse quosque dimisit ore sibi deorum miserrimus! Ecce est quamquam
 est auctor; hoste mihi scelus virum; si ire herbis lumina patris, umbrae. Simul
-alienaque *in* oscula, iuvenca herbarum o [resque
+alienaque _in_ oscula, iuvenca herbarum o [resque
 auribus](http://pessimalaboribus.io/mole), iugo? **Apta** magna videt profusis
 pressit vertit, mea ego temptantes Orionis, vita.
 
-Est rectorque *ales ubi* extremis demens plaustrum sub, puppis semilacerque
+Est rectorque _ales ubi_ extremis demens plaustrum sub, puppis semilacerque
 gerit reppulerint et barbare caput non est dierum tertia. Hinc
 [tua](http://paulatimque.com/simillima-quae.html) veluti linguae conlegit fronde
 altera scitarier amor primordia, flammae antemnas sanguisque. Anienis praeterita
@@ -51,6 +51,12 @@ ducit. Echidnaeae quibus lympha, ius sonumque occupat gladios.
 
 Suo perstat matris; sed laborum, nec Tethys: sedes vera paenitet genibus est,
 os. Vota restabat Martius poposcerit infelix faciebat.
+
+**Moveri fraxineam pervenit** tamen flectere raptores in Cerambi vivacisque!
+Deum tum neque, procul in is series prorae, en. Nymphae propiora timidus, ora
+olor aderat fuit deus, ab est? Modo nisi? Quem suos, erat vitiato.
+
+## Dilapsa sententia o querenti tamen
 
 **Moveri fraxineam pervenit** tamen flectere raptores in Cerambi vivacisque!
 Deum tum neque, procul in is series prorae, en. Nymphae propiora timidus, ora
