@@ -15,6 +15,7 @@ interface HeaderProps {
    topics: string[];
    menu: MenuItem[];
    search: boolean;
+   bigHeader: boolean;
 }
 
 const Header: FunctionComponent<HeaderProps> = ({
@@ -22,11 +23,12 @@ const Header: FunctionComponent<HeaderProps> = ({
    description,
    menu,
    topics = [],
-   search = true
+   search = true,
+   bigHeader
 }) => {
    return (
       <>
-         {window.location.pathname === '/' ? (
+         {bigHeader ? (
             <StyledHeader>
                {/* <StyledNavigation
                   title={title}

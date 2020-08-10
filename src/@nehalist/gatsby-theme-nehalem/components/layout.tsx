@@ -48,6 +48,7 @@ const Layout: FunctionComponent<LayoutProps> = ({
                   topics={data.site.siteMetadata.topics}
                   menu={data.site.siteMetadata.menu}
                   search={data.site.siteMetadata.search}
+                  bigHeader={bigHeader}
                />
                <Navigation
                   title={data.site.siteMetadata.title}
